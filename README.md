@@ -11,7 +11,7 @@ Evolução do CheckPoint 4: toda a autenticação foi mantida e foi adicionado o
 | ---------------------------------- | -------- |
 | João Victor Caetano Alves da Silva | 562074   |
 | João Victor Bueno C da Silva       | 564115   |
-| Felipe Furlanetto                  | RM562766 |
+| Felipe Furlanetto                  | 562766 |
 
 ## Tema
 
