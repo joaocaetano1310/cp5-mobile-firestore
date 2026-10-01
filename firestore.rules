@@ -1,0 +1,19 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Documento do usuário: usuarios/{uid}
+    match /usuarios/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+
+      // Registros do usuário: usuarios/{uid}/registros/{registroId}
+      // (a regra do documento pai NÃO vale para subcoleções, por isso este bloco)
+      match /registros/{registroId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // Qualquer outro caminho fica bloqueado.
+  }
+}
