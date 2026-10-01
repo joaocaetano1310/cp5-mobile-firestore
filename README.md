@@ -93,4 +93,4 @@ Leia o QR Code com o Expo Go, ou pressione `a` para Android, `i` para iOS e `w` 
 
 ## Demonstração
 
-Vídeo: _(colar o link aqui)_
+Vídeo: https://youtu.be/MZFuumGgifM
