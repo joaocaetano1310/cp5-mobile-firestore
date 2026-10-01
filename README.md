@@ -1,7 +1,7 @@
 # CP5 — App com Autenticação e Cloud Firestore
 
 Aplicativo mobile de **Controle de Estudos** com Firebase Authentication e CRUD no Cloud Firestore.
-Tecnologia em Desenvolvimento de Sistemas — 2TDS · Mobile Application Development · Prof. Fernando Pinéo
+Tecnologia em Desenvolvimento de Sistemas — 2TDSPF · Mobile Application Development · Prof. Fernando Pinéo
 
 Evolução do CheckPoint 4: toda a autenticação foi mantida e foi adicionado o Cloud Firestore.
 
