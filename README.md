@@ -5,6 +5,10 @@ Tecnologia em Desenvolvimento de Sistemas — 2TDSPF · Mobile Application Devel
 
 Evolução do CheckPoint 4: toda a autenticação foi mantida e foi adicionado o Cloud Firestore.
 
+## Demonstração
+
+Vídeo: https://youtu.be/MZFuumGgifM
+
 ## Integrantes
 
 | Nome                               | RM       |
@@ -90,7 +94,3 @@ npx expo start
 ```
 
 Leia o QR Code com o Expo Go, ou pressione `a` para Android, `i` para iOS e `w` para o navegador.
-
-## Demonstração
-
-Vídeo: https://youtu.be/MZFuumGgifM
